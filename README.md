@@ -69,7 +69,7 @@ Learning about the software testing andunderstanding about:
 
 ### Project
 
-1. PROJECT: PHP TRAVELS
+**1. PROJECT: PHP TRAVELS**
 
 **Position in this project:** Tester
 
@@ -95,7 +95,7 @@ provides custom web solutions and services.
 - PostMan 
 - Jmeter
 
-2. PROJECT: PURANAVI
+**2. PROJECT: PURANAVI**
 
 **Position in this project:** Tester
 
@@ -121,7 +121,7 @@ Discount rate or amount, Duration.
 - My SQL Workbench
 
 
-3. PROJECT: RM
+**3. PROJECT: RM**
 
 **Position in this project:** Tester
 
