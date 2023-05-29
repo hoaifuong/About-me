@@ -1,6 +1,6 @@
 # **Dang Thi Hoai Phuong**
 
-## Position Applied: Tester
+## Position Applied: Software Tester
 
 ### Education
 
