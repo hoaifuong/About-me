@@ -46,7 +46,7 @@ Japanese JLPT N3
 ```
 
 ### Skills
-1. Technical skills
+**1. Technical skills**
 
 Learning about the software testing andunderstanding about:
  - Software development process
@@ -59,7 +59,7 @@ Learning about the software testing andunderstanding about:
 
 
 
-2. Soft skills
+**2. Soft skills**
 - Good communication skills
 - Open-minded and keen to learn
 - Good teamwork ability
