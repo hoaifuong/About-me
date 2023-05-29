@@ -19,7 +19,7 @@
 ```
 D.O.B: 05/11/2001
 
-P.A:  Nam Dinh
+P.A: Nam Dinh
 ```
 ### Contact
 ```
